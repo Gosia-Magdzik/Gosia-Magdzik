@@ -1,5 +1,8 @@
-![GiF](/Hello.gif)
+<div align="center">
 
+![GiF height="400"](/Hello.gif)
+
+</div>
 <hr/>
 
 
