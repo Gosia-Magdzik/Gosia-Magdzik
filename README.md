@@ -16,7 +16,7 @@
 </div>
 <hr/>
 
-- 🔭 <u>I’m currently working on</u>: Movies Browser
+- 🔭 <u>I’m currently working on</u>:    [Movies Browser](https://marcinkpawel.github.io/movies-browser/#/movies?page=1)
 - 🌱 <u>I’m currently learning</u>: Bootstrap
 - 💬 <u>How to reach me:</u> magdzik.frontend@gmail.com 
 <hr/>
