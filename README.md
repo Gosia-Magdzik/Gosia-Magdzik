@@ -24,7 +24,8 @@
 
 ![image  width=100% ](/footer.png)
 
-👇 Check out my repos & Have a good day     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+ <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+👇 Check out my repos & Have a good day    
 
 
 </div>
