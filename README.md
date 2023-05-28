@@ -1,8 +1,9 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
 ![image width=100% ](/HELLO.png)
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </div>
 
 - 🔭 <u>I’m currently working on</u>:    [Movies Browser](https://marcinkpawel.github.io/movies-browser/#/movies?page=1)
