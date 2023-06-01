@@ -15,12 +15,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,git,github)](https://skillicons.dev)
 </div>
-<hr/>
 
 <div align="center">
-
-⭐ <i>If you like this readme file, please give me star </i> ⭐
-<br/>
 
 ![image  width=100% ](/footer.png)
 
