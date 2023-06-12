@@ -6,7 +6,7 @@
 
 </div>
 
-- 🔭 <u>I’m currently working on</u>:    [Movies Browser](https://marcinkpawel.github.io/movies-browser/#/movies?page=1)
+- 🔭 <u>I’m currently working on</u>:    [shopping cart](gosia-magdzik.github.io/shopping-cart/)
 - 🌱 <u>I’m currently learning</u>: Bootstrap  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 - 💬 <u>How to reach me:</u> magdzik.frontend@gmail.com 
 <div align="center">
