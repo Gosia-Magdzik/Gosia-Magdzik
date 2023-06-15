@@ -13,7 +13,7 @@
 
 ## Tools I use:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,git,github,typescript)](https://skillicons.dev)
 </div>
 
 <div align="center">
