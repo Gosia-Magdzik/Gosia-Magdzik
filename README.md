@@ -6,8 +6,8 @@
 
 </div>
 
-- 🔭 <u>I’m currently working on</u>:    [shopping cart](gosia-magdzik.github.io/shopping-cart/)
-- 🌱 <u>I’m currently learning</u>: Bootstrap  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+- 🔭 <u>I’m currently working on</u>:    [weather App](https://gosia-magdzik.github.io/weather-app/)
+- 🌱 <u>I’m currently learning</u>: TypeScript 
 - 💬 <u>How to reach me:</u> magdzik.frontend@gmail.com 
 <div align="center">
 
@@ -18,9 +18,9 @@
 
 <div align="center">
 
-![image  width=100% ](/footer.png)
+<hr>
 
-👇 Check out my repos & Have a good day    
+👇 Check out my repos & Have a good day    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 
 
 </div>
